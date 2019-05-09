@@ -1,3 +1,3 @@
 def reverse_each_word(String)
-  list = []
-  list.
+  split_string = String.split("")
+  
