@@ -5,6 +5,6 @@ def reverse_each_word(string)
     list << string.reverse
   end
   list.join(" ")
-  
+end
     
   
