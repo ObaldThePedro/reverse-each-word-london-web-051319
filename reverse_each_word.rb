@@ -7,4 +7,4 @@ def reverse_each_word(string)
   list.join(" ")
 end
     
-  
+def 
