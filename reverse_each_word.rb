@@ -4,6 +4,7 @@ def reverse_each_word(String)
   split_string.each do |String|
     list << String.reverse
   end
-  list.join
+  list.join(" ")
+  
     
   
