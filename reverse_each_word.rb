@@ -3,6 +3,6 @@ def reverse_each_word(String)
   list = []
   split_string.each do |String|
     list << String.reverse
-    
+  end
     
   
